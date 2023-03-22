@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: api-margins
+    name: api-card
   mongodb:
     embedded:
       version: 4.0.2
